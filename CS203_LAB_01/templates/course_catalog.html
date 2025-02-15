@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>Course Catalog</h1>
+<a href="{{ url_for('add_course') }}" class="btn btn-success mb-3">Add New Course</a>
+<ul class="list-group">
+    {% for course in courses %}
+    <li class="list-group-item">
+        <a href="{{ url_for('course_details', code=course['code']) }}">{{ course['name'] }}</a>
+    </li>
+    {% endfor %}
+</ul>
+<a href="{{ url_for('index') }}" class="btn btn-secondary mt-3">Back to Home</a>
+{% endblock %}

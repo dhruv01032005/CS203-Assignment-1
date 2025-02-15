@@ -1,0 +1,88 @@
+[
+    {
+        "code": "CS101",
+        "name": "Introduction to Computer Science",
+        "description": "Basic principles of computer science.",
+        "instructor": "Dr. John Doe",
+        "credits": "3"
+    },
+    {
+        "code": "MA201",
+        "name": "Advanced Mathematics",
+        "description": "Advanced topics in mathematics.",
+        "instructor": "Dr. Jane Smith",
+        "credits": "4"
+    },
+    {
+        "code": "NISN3",
+        "name": "nisnfs",
+        "instructor": "anafm",
+        "semester": "anfljas"
+    },
+    {
+        "code": "VBKJ4",
+        "name": "vbkj,sd",
+        "instructor": "dahkdb",
+        "semester": "wkbkjw"
+    },
+    {
+        "code": "HHBH5",
+        "name": "HHbhabc",
+        "instructor": "s nd sd",
+        "semester": "nsam,ns"
+    },
+    {
+        "code": "NSA,6",
+        "name": "nsa,m s",
+        "instructor": "ZNC<m",
+        "semester": "zxn ,m"
+    },
+    {
+        "code": "MDVM7",
+        "name": "mdvm",
+        "instructor": "Not Assigned",
+        "semester": "faj"
+    },
+    {
+        "code": "FKKB8",
+        "name": "fkkbf",
+        "instructor": "quyttyuio",
+        "semester": "qqqqwertyui"
+    },
+    {
+        "code": "CN9",
+        "name": "cn",
+        "instructor": "cmnca,na",
+        "semester": "aaaaaaaaaaaaaaa"
+    },
+    {
+        "code": "KHJK10",
+        "name": "khjk.",
+        "instructor": "bijlk;",
+        "semester": "tuuihjkl"
+    },
+    {
+        "code": "JK11",
+        "name": "jk",
+        "instructor": "akjlklsz",
+        "semester": "akl;x"
+    },
+    {
+        "code": "JNFL12",
+        "name": "jnfl",
+        "instructor": "anlnj",
+        "semester": "ajm"
+    },
+    {
+        "code": "HJKS13",
+        "name": "hjks",
+        "instructor": "hjkls",
+        "semester": "hhjnkl"
+    },
+    {
+        "code": "GHJK14",
+        "name": "ghjk",
+        "instructor": "njm,.",
+        "semester": "ghjkl;"
+    }
+]
